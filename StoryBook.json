@@ -1,0 +1,14 @@
+[
+		{
+		"prompts" : ["a Season", "a noun", "a verb (past tense)", "an other verb (present tense)", "a name", "an animal", "a name"],
+		"story" : "Last %s I had a %s accident; I was thrown to the ground and %s my arm. Now I can't even use it to %s my hair. Thankfully, %s brings over their pet %s named %s and helps me around the house."
+		},
+		{
+		"prompts" : ["a name", "a verb (past tense)", "a sound", "a noun", "a verb (present tense)", "a noun"],
+		"story" : "%s %s their knuckles, making a %s sound, before they pulled a %s from their belt; they then used it to %s the %s one last time."
+		},
+		{
+		"prompts" : ["An abverb (word ending in -ly)", "a verb (past tense)", "a touch sensation", "a thing", "an adjective (descriptive word)"],
+		"story" : "I %s %s away at the %s %s, wondering if it would ever be %s again"
+		}
+		]
