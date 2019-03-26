@@ -41,15 +41,18 @@ margin_right = -21.0
 margin_bottom = -21.0
 grow_horizontal = 2
 grow_vertical = 2
-alignment = 2
+size_flags_horizontal = 3
+size_flags_vertical = 3
+alignment = 1
 
 [node name="Textbox" type="Label" parent="VBoxContainer"]
-margin_top = 67.0
 margin_right = 982.0
 margin_bottom = 487.0
 grow_horizontal = 2
 grow_vertical = 2
 rect_min_size = Vector2( 0, 420 )
+size_flags_horizontal = 3
+size_flags_vertical = 3
 custom_fonts/font = SubResource( 1 )
 text = "Textbox placeholder"
 autowrap = true
@@ -58,6 +61,8 @@ autowrap = true
 margin_top = 491.0
 margin_right = 982.0
 margin_bottom = 558.0
+grow_horizontal = 0
+grow_vertical = 0
 custom_constants/separation = 12
 alignment = 2
 

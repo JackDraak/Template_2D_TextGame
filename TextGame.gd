@@ -39,7 +39,7 @@ func add_to_player_words():
 func end_story():
 	PlayerInput.text = ""
 	PlayerInput.visible = false
-	ButtonLabel.text = "Restart"
+	ButtonLabel.text = "New Story"
 
 func initialize():
 	load_stories()
